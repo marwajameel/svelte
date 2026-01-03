@@ -1,5 +1,11 @@
 # svelte
 
+## 5.46.2
+
+### Patch Changes
+
+- fix: remove `$inspect` calls after await expressions when compiling for production server code ([#17407](https://github.com/sveltejs/svelte/pull/17407))
+
 ## 5.46.1
 
 ### Patch Changes
